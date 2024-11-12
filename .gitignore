@@ -1,0 +1,4 @@
+echo "venv/" >> .gitignore
+echo "data/raw/" >> .gitignore
+echo "data/processed/" >> .gitignore
+echo ".ipynb_checkpoints/" >> .gitignore
